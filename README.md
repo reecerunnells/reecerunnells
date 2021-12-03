@@ -1,6 +1,6 @@
 <h4>Hi, I'm Reece 👋</h4>
 <hr style="height: 1px; background-color: black;">
-<p>I'm a senior full-stack engineer whos lived in a ton of places:</p>
+<p>I'm a senior full-stack engineer whos lived in a bunch of places:</p>
 <p>Dallas -> Denver -> Dallas -> Austin -> Chicago -> New York -> Los Angeles -> Nashville -> Phoenix</p>
 <p>Running joke with my wife: <strong>We dont take trips.  We just move.</strong></p>
 <h4>Daily 💻</h4>
