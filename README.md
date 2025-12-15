@@ -1,5 +1,5 @@
  <h4>Hi, I'm Reece 👋</h4>
-<p>I'm a senior full-stack engineer whos lived in a bunch of places:</p>
+<p>I use a computer. Its just a tool. I've lived a bunch of places:</p>
 <p>Dallas -> Denver -> Dallas -> Austin -> Chicago -> New York -> Los Angeles -> Nashville -> Phoenix</p>
 <p>Running joke: <strong>I dont take trips.  I just move.</strong></p>
 
