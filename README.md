@@ -5,11 +5,6 @@
 
 <hr />
 
-<h4>Daily 💻</h4>
-<img src="https://avatars.githubusercontent.com/u/453694?v=4" alt="Salesforce logo" width="16" height="16" /> Salesforce 2012 - Present
-
-<hr />
-
 <h4>Into 😺</h4>
 
 <section style="display:flex">
