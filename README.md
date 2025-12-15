@@ -1,7 +1,7 @@
  <h4>Hi, I'm Reece 👋</h4>
 <p>I'm a senior full-stack engineer whos lived in a bunch of places:</p>
 <p>Dallas -> Denver -> Dallas -> Austin -> Chicago -> New York -> Los Angeles -> Nashville -> Phoenix</p>
-<p>Running joke with my wife: <strong>We dont take trips.  We just move.</strong></p>
+<p>Running joke: <strong>I dont take trips.  I just move.</strong></p>
 
 <hr />
 
